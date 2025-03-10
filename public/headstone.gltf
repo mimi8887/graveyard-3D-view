@@ -1,6 +1,6 @@
 {
 	"asset":{
-		"generator":"Khronos glTF Blender I/O v4.2.69",
+		"generator":"Khronos glTF Blender I/O v4.1.63",
 		"version":"2.0"
 	},
 	"extensionsUsed":[
@@ -18,23 +18,7 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Plane.004",
-			"rotation":[
-				0,
-				0,
-				-0.7071068286895752,
-				0.7071068286895752
-			],
-			"scale":[
-				0.2325468361377716,
-				0.16975358128547668,
-				0.2325468361377716
-			],
-			"translation":[
-				12.543977737426758,
-				0.2975807785987854,
-				-0.007715895771980286
-			]
+			"name":"Plane.004"
 		}
 	],
 	"materials":[
@@ -43,7 +27,7 @@
 			"extensions":{
 				"KHR_materials_unlit":{}
 			},
-			"name":"marble.023",
+			"name":"marble.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":0
@@ -55,7 +39,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Plane.006",
+			"name":"Plane.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -86,29 +70,29 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":14501,
+			"count":14530,
 			"max":[
-				1.8892443180084229,
-				1.947546362876892,
-				6.377170085906982
+				0.3306029438972473,
+				2.9700706005096436,
+				1.4829907417297363
 			],
 			"min":[
-				-12.771923065185547,
-				-1.947546362876892,
-				-6.310818672180176
+				-0.33060306310653687,
+				-0.4393378496170044,
+				-1.467560887336731
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":14501,
+			"count":14530,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":14501,
+			"count":14530,
 			"type":"VEC2"
 		},
 		{
@@ -121,26 +105,26 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":174012,
+			"byteLength":174360,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":174012,
-			"byteOffset":174012,
+			"byteLength":174360,
+			"byteOffset":174360,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":116008,
-			"byteOffset":348024,
+			"byteLength":116240,
+			"byteOffset":348720,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":162120,
-			"byteOffset":464032,
+			"byteOffset":464960,
 			"target":34963
 		}
 	],
@@ -152,7 +136,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":626152,
+			"byteLength":627080,
 			"uri":"headstone.bin"
 		}
 	]

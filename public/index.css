@@ -29,7 +29,7 @@ h1 {
   font-weight: 100;
 }
 
-#progress-container {
+/* #progress-container {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -41,4 +41,4 @@ h1 {
 #progress {
   font-size: 3em;
   color: white;
-}
+} */
